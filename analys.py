@@ -1,1 +1,0 @@
-#fungsi -fungsi di balik fitur anda
