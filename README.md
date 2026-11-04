@@ -1,5 +1,8 @@
 # Analisis Penjualan & Profitabilitas E-Commerce (Proyek Ujian Akhir Pemrograman Komputer)
 
+link video : https://youtu.be/nMsBJ5TWVR8
+
+
 Program berbasis menu (*Command-Line Interface*) yang dibangun dengan **Pure Python 3** (hanya menggunakan pustaka standar Python tanpa modul eksternal seperti Pandas atau NumPy) untuk mengeksplorasi dan menganalisis dataset transaksi e-commerce nyata.
 
 ---
